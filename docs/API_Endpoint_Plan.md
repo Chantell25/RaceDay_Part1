@@ -1,10 +1,10 @@
-# RaceDay API Endpoint Plan
+ RaceDay API Endpoint Plan
 
-**Module:** PROG6212 Programming 2B  
-**Part: Part 1 – System Planning and Database  
-**System:** RaceDay – South African Road Event Management Platform
+Module: PROG6212 Programming 2B  
+Part: Part 1 – System Planning and Database  
+System: RaceDay – South African Road Event Management Platform
 
-## API conventions
+ API conventions
 
 - Base route: `/api`
 - Authentication: JWT Bearer token.
@@ -21,7 +21,7 @@
 - Missing resources return `404 Not Found`.
 - Duplicate email/enrolment/category constraints return `409 Conflict` where applicable.
 
-## Endpoint table
+Endpoint table
 
 | HTTP Method | Route | Description | Role Required | Request Body | Expected Response |
 |---|---|---|---|---|---|
