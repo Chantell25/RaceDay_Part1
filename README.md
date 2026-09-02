@@ -64,7 +64,6 @@ The password values in the seed data are deliberately labelled demo hashes. Part
 
 
 ## GitHub and CI/CD
-
 The repository includes `.github/workflows/validate.yml`. The workflow checks that the required `/docs` files exist and performs basic SQL-script validation.
 
 ### Required before submission
@@ -79,6 +78,7 @@ The repository includes `.github/workflows/validate.yml`. The workflow checks th
 - [ ] The video must show the running SQL script in SSMS and explain the ERD, endpoint decisions and design choices.
 
 ### CI/CD screenshot
+<img width="1244" height="788" alt="image" src="https://github.com/user-attachments/assets/fb8be126-d506-4cc3-8503-58ce8a614e19" />
 
 
 
