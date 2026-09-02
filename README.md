@@ -65,6 +65,7 @@ The password values in the seed data are deliberately labelled demo hashes. Part
 
 ## GitHub and CI/CD
 The repository includes `.github/workflows/validate.yml`. The workflow checks that the required `/docs` files exist and performs basic SQL-script validation.
+<img width="1244" height="1456" alt="image" src="https://github.com/user-attachments/assets/be484846-7ecc-48e7-a3c2-171abbbf8e97" />
 
 ### Required before submission
 
