@@ -82,9 +82,11 @@ The repository includes `.github/workflows/validate.yml`. The workflow checks th
 
 
 
-### Part 1 video
+### Part 1 video Youtube link
+https://youtu.be/RLegr60rUAk?si=FVrN-7UNeWsNASu2 
 
-
+## Github link 
+https://github.com/Chantell25/RaceDay_Part1 
 
 ## Consistency rule for Parts 2 and 3
 
