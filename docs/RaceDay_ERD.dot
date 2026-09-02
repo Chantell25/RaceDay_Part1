@@ -1,4 +1,4 @@
-
+ 
 digraph RaceDayERD {
   graph [rankdir=LR, bgcolor="white", pad="0.3", nodesep="0.5", ranksep="0.9",
          fontname="Arial", labelloc="t", label="RaceDay System — Entity Relationship Diagram"];
