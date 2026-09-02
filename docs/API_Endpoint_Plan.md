@@ -1,7 +1,7 @@
 # RaceDay API Endpoint Plan
 
 **Module:** PROG6212 Programming 2B  
-**Part:** Part 1 – System Planning and Database  
+**Part: Part 1 – System Planning and Database  
 **System:** RaceDay – South African Road Event Management Platform
 
 ## API conventions
